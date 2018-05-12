@@ -1,0 +1,26 @@
+_repo: ThinkA-Book-for-To-day_36849
+_version: 0.1.0
+alternative_title: 'Think: A Book for Today'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunter, William Crosbie
+    birthdate: 1866
+    gutenberg_agent_id: '9079'
+    url: http://www.gutenberg.org/2009/agents/9079
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Mental health'
+title: 'Think: A Book for To-day'
+url: http://www.gutenberg.org/ebooks/36849
